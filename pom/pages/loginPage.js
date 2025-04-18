@@ -19,5 +19,4 @@ exports.LoginPage = class LoginPage {
         await this.pass.fill(pass);
         await this.loginButton.click();
     }
-
 }
