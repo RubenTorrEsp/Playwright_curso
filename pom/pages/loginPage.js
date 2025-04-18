@@ -20,4 +20,6 @@ exports.LoginPage = class LoginPage {
         await this.loginButton.click();
     }
 
+    async login() {} 
+
 }
